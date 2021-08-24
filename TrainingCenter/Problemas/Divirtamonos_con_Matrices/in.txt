@@ -1,0 +1,2711 @@
+50
+4
+5501
+3235
+2741
+7655
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 3 4
+fila 1 4
+fila 4 1
+fila 1 3
+fila 3 1
+fila 3 2
+fila 4 3
+fila 4 3
+fila 2 1
+fila 3 4
+columna 3 2
+columna 3 1
+columna 2 1
+columna 1 4
+columna 4 2
+columna 2 4
+columna 4 2
+columna 2 4
+columna 1 4
+columna 4 1
+4
+1057
+8032
+0644
+8826
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 4 1
+fila 2 4
+fila 1 2
+fila 2 3
+fila 2 4
+fila 3 2
+fila 3 4
+fila 4 1
+fila 1 2
+fila 2 4
+columna 1 2
+columna 2 1
+columna 3 1
+columna 3 2
+columna 2 4
+columna 3 1
+columna 3 1
+columna 3 1
+columna 2 4
+columna 2 3
+3
+004
+698
+839
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 2 3
+fila 2 1
+fila 3 2
+fila 1 2
+fila 2 3
+fila 3 1
+fila 2 1
+fila 1 2
+fila 2 1
+fila 2 1
+columna 3 1
+columna 1 3
+columna 1 3
+columna 1 3
+columna 3 2
+columna 1 2
+columna 1 2
+columna 1 3
+columna 3 1
+columna 1 3
+3
+179
+074
+007
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 3 1
+fila 3 1
+fila 1 3
+fila 1 2
+fila 1 2
+fila 2 1
+fila 1 2
+fila 1 2
+fila 1 2
+fila 1 3
+columna 1 2
+columna 2 3
+columna 3 1
+columna 2 3
+columna 1 2
+columna 2 1
+columna 3 1
+columna 1 3
+columna 1 2
+columna 3 1
+3
+599
+233
+012
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 1 2
+fila 1 3
+fila 1 3
+fila 2 3
+fila 3 2
+fila 1 2
+fila 2 3
+fila 1 2
+fila 3 1
+fila 2 1
+columna 2 3
+columna 2 1
+columna 3 1
+columna 1 3
+columna 1 2
+columna 2 3
+columna 3 1
+columna 2 1
+columna 3 1
+columna 2 3
+2
+00
+00
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 1 2
+fila 2 1
+fila 1 2
+fila 1 2
+fila 2 1
+fila 2 1
+fila 2 1
+fila 1 2
+fila 2 1
+fila 1 2
+columna 2 1
+columna 2 1
+columna 2 1
+columna 2 1
+columna 2 1
+columna 2 1
+columna 2 1
+columna 2 1
+columna 2 1
+columna 2 1
+5
+35472
+47816
+14379
+23018
+22401
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 1 2
+fila 1 4
+fila 1 4
+fila 3 2
+fila 1 5
+fila 1 5
+fila 3 5
+fila 1 4
+fila 5 3
+fila 2 5
+columna 4 2
+columna 3 5
+columna 3 2
+columna 1 3
+columna 4 5
+columna 1 4
+columna 4 2
+columna 3 5
+columna 3 2
+columna 1 5
+7
+7462892
+1905680
+6084914
+3666901
+6478051
+1154766
+5349106
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 1 7
+fila 6 2
+fila 6 1
+fila 7 5
+fila 7 3
+fila 7 4
+fila 6 3
+fila 5 3
+fila 7 2
+fila 2 5
+columna 4 6
+columna 5 2
+columna 5 3
+columna 2 5
+columna 3 4
+columna 1 4
+columna 5 1
+columna 1 3
+columna 1 4
+columna 6 4
+9
+430609123
+391099195
+779298656
+215693318
+065273726
+877046862
+596793477
+277716288
+657604791
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 3 5
+fila 7 2
+fila 2 7
+fila 5 4
+fila 5 6
+fila 9 3
+fila 3 5
+fila 7 2
+fila 3 8
+fila 4 9
+columna 1 9
+columna 1 3
+columna 6 8
+columna 8 3
+columna 2 3
+columna 2 3
+columna 6 3
+columna 4 3
+columna 8 1
+columna 7 2
+2
+11
+52
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 1 2
+fila 2 1
+fila 2 1
+fila 2 1
+fila 1 2
+fila 1 2
+fila 2 1
+fila 2 1
+fila 2 1
+fila 1 2
+columna 1 2
+columna 1 2
+columna 1 2
+columna 1 2
+columna 2 1
+columna 2 1
+columna 1 2
+columna 1 2
+columna 2 1
+columna 2 1
+2
+31
+85
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 2 1
+fila 2 1
+fila 1 2
+fila 1 2
+fila 2 1
+fila 2 1
+fila 2 1
+fila 1 2
+fila 1 2
+fila 2 1
+columna 1 2
+columna 1 2
+columna 1 2
+columna 2 1
+columna 2 1
+columna 2 1
+columna 1 2
+columna 2 1
+columna 2 1
+columna 2 1
+1
+7
+30
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+1
+9
+30
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+5
+01226
+09845
+97549
+41971
+46548
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 5 4
+fila 1 5
+fila 3 5
+fila 5 2
+fila 5 1
+fila 1 3
+fila 3 4
+fila 2 4
+fila 1 2
+fila 1 3
+columna 2 3
+columna 4 1
+columna 5 4
+columna 4 3
+columna 4 3
+columna 5 2
+columna 5 3
+columna 2 3
+columna 2 1
+columna 2 4
+5
+29226
+51717
+00008
+78361
+07251
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 2 5
+fila 3 4
+fila 1 3
+fila 5 3
+fila 5 3
+fila 1 4
+fila 2 3
+fila 2 3
+fila 2 3
+fila 3 5
+columna 3 1
+columna 4 2
+columna 2 4
+columna 3 2
+columna 1 4
+columna 1 3
+columna 3 5
+columna 4 2
+columna 4 5
+columna 1 5
+6
+663113
+524139
+994937
+483251
+838190
+464929
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 6 5
+fila 1 5
+fila 2 6
+fila 6 2
+fila 6 2
+fila 2 3
+fila 4 3
+fila 6 1
+fila 3 4
+fila 4 3
+columna 4 6
+columna 3 5
+columna 1 5
+columna 2 1
+columna 2 5
+columna 2 3
+columna 1 3
+columna 2 5
+columna 3 4
+columna 1 5
+2
+13
+97
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 1 2
+fila 1 2
+fila 1 2
+fila 1 2
+fila 2 1
+fila 1 2
+fila 1 2
+fila 2 1
+fila 1 2
+fila 2 1
+columna 2 1
+columna 1 2
+columna 1 2
+columna 2 1
+columna 1 2
+columna 1 2
+columna 2 1
+columna 1 2
+columna 2 1
+columna 2 1
+6
+253683
+379389
+358767
+372720
+712885
+863660
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 4 6
+fila 2 1
+fila 6 3
+fila 6 2
+fila 3 5
+fila 1 4
+fila 2 1
+fila 5 4
+fila 6 3
+fila 4 3
+columna 4 1
+columna 6 5
+columna 6 2
+columna 4 2
+columna 3 4
+columna 5 3
+columna 6 4
+columna 1 5
+columna 2 5
+columna 3 5
+5
+13645
+52724
+71829
+28400
+59107
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 1 2
+fila 1 2
+fila 2 5
+fila 5 3
+fila 4 1
+fila 4 1
+fila 4 2
+fila 4 1
+fila 3 5
+fila 1 3
+columna 3 2
+columna 5 4
+columna 4 2
+columna 5 3
+columna 4 3
+columna 3 5
+columna 5 2
+columna 3 5
+columna 3 2
+columna 5 4
+2
+24
+74
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 2 1
+fila 2 1
+fila 1 2
+fila 2 1
+fila 2 1
+fila 1 2
+fila 2 1
+fila 2 1
+fila 1 2
+fila 1 2
+columna 2 1
+columna 2 1
+columna 2 1
+columna 1 2
+columna 2 1
+columna 2 1
+columna 2 1
+columna 1 2
+columna 1 2
+columna 2 1
+2
+60
+02
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 2 1
+fila 2 1
+fila 2 1
+fila 1 2
+fila 1 2
+fila 1 2
+fila 2 1
+fila 2 1
+fila 1 2
+fila 2 1
+columna 2 1
+columna 1 2
+columna 1 2
+columna 1 2
+columna 1 2
+columna 1 2
+columna 2 1
+columna 2 1
+columna 2 1
+columna 1 2
+3
+679
+310
+420
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 3 1
+fila 3 2
+fila 1 3
+fila 2 3
+fila 3 2
+fila 2 1
+fila 3 2
+fila 2 1
+fila 2 1
+fila 2 3
+columna 3 1
+columna 1 3
+columna 2 3
+columna 1 3
+columna 1 2
+columna 2 1
+columna 1 2
+columna 2 3
+columna 3 1
+columna 2 1
+8
+60948001
+17456755
+34667239
+81686347
+76880347
+85458486
+58486989
+35584571
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 5 4
+fila 7 6
+fila 8 6
+fila 3 6
+fila 7 6
+fila 7 4
+fila 8 7
+fila 8 4
+fila 1 4
+fila 1 5
+columna 8 7
+columna 5 2
+columna 1 8
+columna 7 3
+columna 4 2
+columna 8 1
+columna 5 1
+columna 7 2
+columna 8 7
+columna 8 6
+1
+9
+30
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+9
+006075297
+155741960
+858965696
+685014260
+994419261
+789372800
+454009101
+417038210
+192669327
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 7 6
+fila 1 7
+fila 2 6
+fila 5 8
+fila 3 9
+fila 2 6
+fila 7 8
+fila 5 7
+fila 5 4
+fila 2 4
+columna 9 1
+columna 6 7
+columna 4 5
+columna 4 8
+columna 2 8
+columna 4 6
+columna 2 7
+columna 8 4
+columna 6 2
+columna 2 1
+2
+71
+01
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 1 2
+fila 1 2
+fila 1 2
+fila 2 1
+fila 2 1
+fila 2 1
+fila 2 1
+fila 2 1
+fila 1 2
+fila 1 2
+columna 2 1
+columna 1 2
+columna 2 1
+columna 2 1
+columna 1 2
+columna 2 1
+columna 1 2
+columna 1 2
+columna 2 1
+columna 1 2
+5
+01681
+80308
+81337
+71759
+07491
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 4 2
+fila 5 1
+fila 2 5
+fila 4 3
+fila 1 2
+fila 2 1
+fila 5 1
+fila 3 2
+fila 2 4
+fila 4 5
+columna 4 3
+columna 4 5
+columna 5 3
+columna 5 3
+columna 2 4
+columna 4 3
+columna 2 3
+columna 5 3
+columna 4 5
+columna 4 5
+3
+453
+644
+101
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 2 1
+fila 1 3
+fila 1 2
+fila 3 1
+fila 1 2
+fila 1 2
+fila 1 2
+fila 3 2
+fila 1 3
+fila 1 3
+columna 1 3
+columna 3 2
+columna 2 3
+columna 3 1
+columna 3 1
+columna 1 3
+columna 2 1
+columna 1 2
+columna 2 1
+columna 3 1
+1
+4
+30
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+4
+9134
+7616
+1170
+3325
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 2 4
+fila 3 2
+fila 2 4
+fila 1 4
+fila 1 2
+fila 4 3
+fila 4 1
+fila 3 2
+fila 1 4
+fila 3 4
+columna 1 2
+columna 1 4
+columna 3 4
+columna 4 3
+columna 3 1
+columna 4 1
+columna 4 1
+columna 3 2
+columna 4 3
+columna 3 2
+7
+5446622
+5707418
+1031542
+5820263
+1259880
+1149762
+7372179
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 2 1
+fila 3 1
+fila 1 3
+fila 6 4
+fila 1 6
+fila 7 6
+fila 4 6
+fila 6 1
+fila 5 3
+fila 3 5
+columna 1 3
+columna 3 4
+columna 2 1
+columna 3 2
+columna 3 5
+columna 5 3
+columna 7 3
+columna 5 1
+columna 4 3
+columna 2 1
+9
+754203846
+426007728
+973540748
+293495240
+990077511
+783005389
+370892562
+616135736
+695555030
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 4 1
+fila 6 1
+fila 1 5
+fila 7 3
+fila 1 4
+fila 2 3
+fila 7 9
+fila 1 6
+fila 5 6
+fila 9 8
+columna 4 7
+columna 7 9
+columna 8 9
+columna 3 8
+columna 2 8
+columna 2 4
+columna 7 1
+columna 7 1
+columna 1 9
+columna 3 4
+7
+9866357
+5948300
+5406381
+7271220
+1266895
+9026821
+8473839
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 2 7
+fila 5 7
+fila 2 3
+fila 5 4
+fila 6 3
+fila 7 5
+fila 4 5
+fila 1 7
+fila 2 4
+fila 4 1
+columna 5 1
+columna 5 7
+columna 7 5
+columna 7 2
+columna 6 7
+columna 6 2
+columna 1 7
+columna 5 3
+columna 3 2
+columna 3 5
+3
+324
+266
+279
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 1 3
+fila 3 1
+fila 1 2
+fila 3 1
+fila 3 2
+fila 1 2
+fila 1 3
+fila 2 1
+fila 2 3
+fila 3 2
+columna 2 3
+columna 1 2
+columna 1 3
+columna 1 2
+columna 3 2
+columna 1 2
+columna 1 3
+columna 1 3
+columna 1 3
+columna 2 1
+6
+432030
+084238
+215130
+099376
+622481
+319194
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 4 5
+fila 6 3
+fila 3 2
+fila 5 2
+fila 1 5
+fila 4 2
+fila 6 1
+fila 6 4
+fila 5 1
+fila 4 2
+columna 5 1
+columna 6 3
+columna 2 4
+columna 6 3
+columna 1 6
+columna 2 1
+columna 1 3
+columna 1 5
+columna 3 2
+columna 5 4
+7
+4704916
+3574065
+2632964
+5989401
+5554357
+9216145
+0127767
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 3 7
+fila 5 2
+fila 5 1
+fila 5 6
+fila 6 7
+fila 2 7
+fila 7 2
+fila 3 2
+fila 2 6
+fila 6 5
+columna 6 3
+columna 1 7
+columna 1 5
+columna 5 6
+columna 5 4
+columna 6 5
+columna 1 6
+columna 5 1
+columna 6 3
+columna 6 5
+3
+790
+507
+806
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 3 2
+fila 1 2
+fila 1 2
+fila 1 2
+fila 1 2
+fila 1 2
+fila 3 2
+fila 2 3
+fila 2 1
+fila 1 3
+columna 1 3
+columna 2 1
+columna 1 3
+columna 2 1
+columna 2 3
+columna 3 2
+columna 1 2
+columna 1 2
+columna 2 1
+columna 2 3
+3
+804
+160
+577
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 1 2
+fila 2 1
+fila 3 2
+fila 1 3
+fila 1 3
+fila 2 3
+fila 3 1
+fila 1 3
+fila 3 1
+fila 2 3
+columna 1 3
+columna 1 2
+columna 3 2
+columna 2 3
+columna 3 2
+columna 1 3
+columna 3 1
+columna 2 3
+columna 3 2
+columna 1 2
+9
+027854875
+371166634
+014158912
+854833788
+750259686
+817949342
+790808745
+469889394
+943026995
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 1 2
+fila 9 8
+fila 2 6
+fila 5 7
+fila 8 3
+fila 1 9
+fila 8 7
+fila 7 6
+fila 2 7
+fila 1 5
+columna 9 8
+columna 7 4
+columna 5 8
+columna 1 2
+columna 5 1
+columna 8 9
+columna 2 1
+columna 5 9
+columna 3 9
+columna 2 9
+9
+679233716
+363058694
+549192134
+349839693
+113325219
+845427380
+243733129
+246502879
+046700795
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 4 3
+fila 2 3
+fila 5 1
+fila 8 3
+fila 5 4
+fila 8 6
+fila 9 4
+fila 5 1
+fila 7 2
+fila 3 9
+columna 5 9
+columna 6 8
+columna 3 5
+columna 6 1
+columna 3 4
+columna 3 6
+columna 4 8
+columna 6 8
+columna 5 8
+columna 5 7
+4
+7148
+5737
+3139
+4447
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 1 2
+fila 2 3
+fila 3 1
+fila 2 3
+fila 4 2
+fila 1 4
+fila 1 3
+fila 3 1
+fila 2 1
+fila 1 2
+columna 2 3
+columna 4 1
+columna 3 2
+columna 4 1
+columna 3 2
+columna 1 2
+columna 4 2
+columna 1 3
+columna 1 3
+columna 3 1
+8
+58578635
+81070359
+22021487
+06324999
+75063312
+95993971
+33298620
+88303638
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 2 1
+fila 6 5
+fila 2 4
+fila 4 3
+fila 7 1
+fila 8 2
+fila 2 5
+fila 1 6
+fila 2 3
+fila 5 4
+columna 8 1
+columna 7 6
+columna 2 4
+columna 6 7
+columna 2 6
+columna 2 4
+columna 4 2
+columna 6 1
+columna 7 4
+columna 2 1
+8
+80674601
+98124026
+98154715
+55128776
+92323498
+77604398
+33927412
+10128769
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 2 5
+fila 7 6
+fila 8 4
+fila 5 6
+fila 6 1
+fila 8 2
+fila 7 1
+fila 2 1
+fila 1 2
+fila 4 3
+columna 3 7
+columna 1 2
+columna 3 4
+columna 2 1
+columna 2 7
+columna 7 3
+columna 2 1
+columna 5 7
+columna 1 2
+columna 7 8
+5
+94735
+23465
+67899
+52659
+17121
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 2 3
+fila 4 2
+fila 2 3
+fila 1 2
+fila 4 1
+fila 2 4
+fila 5 4
+fila 5 1
+fila 5 4
+fila 3 2
+columna 2 4
+columna 2 4
+columna 3 1
+columna 1 5
+columna 3 4
+columna 4 3
+columna 2 1
+columna 1 3
+columna 3 4
+columna 5 1
+1
+9
+30
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+2
+33
+46
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 1 2
+fila 2 1
+fila 1 2
+fila 2 1
+fila 2 1
+fila 2 1
+fila 1 2
+fila 2 1
+fila 1 2
+fila 2 1
+columna 2 1
+columna 2 1
+columna 1 2
+columna 1 2
+columna 1 2
+columna 1 2
+columna 1 2
+columna 2 1
+columna 1 2
+columna 1 2
+8
+85744436
+07310343
+39532363
+98626766
+24270786
+71092810
+76254712
+23913538
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 5 2
+fila 1 7
+fila 8 3
+fila 7 8
+fila 2 5
+fila 5 3
+fila 4 1
+fila 7 1
+fila 2 8
+fila 8 5
+columna 7 5
+columna 6 1
+columna 7 1
+columna 6 7
+columna 4 7
+columna 2 3
+columna 2 6
+columna 1 4
+columna 1 5
+columna 3 5
+7
+4601074
+4845426
+5253422
+4964398
+9992573
+5003405
+4561188
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 4 5
+fila 1 5
+fila 4 6
+fila 3 5
+fila 1 6
+fila 7 6
+fila 5 2
+fila 5 6
+fila 2 6
+fila 1 2
+columna 2 3
+columna 3 1
+columna 4 6
+columna 7 6
+columna 7 2
+columna 7 6
+columna 7 2
+columna 1 5
+columna 1 6
+columna 1 7
+1
+7
+30
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+8
+34558112
+31397727
+96387575
+76258461
+88738765
+32764451
+26299781
+78630772
+50
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+transponer
+fila 1 5
+fila 7 3
+fila 6 4
+fila 2 3
+fila 5 2
+fila 5 1
+fila 1 3
+fila 3 6
+fila 3 1
+fila 7 6
+columna 3 8
+columna 2 8
+columna 3 6
+columna 2 6
+columna 5 3
+columna 5 6
+columna 6 2
+columna 4 7
+columna 6 8
+columna 7 4
